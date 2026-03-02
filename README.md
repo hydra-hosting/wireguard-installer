@@ -1,6 +1,6 @@
 # 🛡️ WireGuard Automatic Installer
 
-A streamlined, one-click automation script for deploying and managing WireGuard VPN servers, optimized for **[Nome del Tuo Hosting]** infrastructure.
+A streamlined, one-click automation script for deploying and managing WireGuard VPN servers, optimized for **hydra-hosting** infrastructure.
 
 ---
 
